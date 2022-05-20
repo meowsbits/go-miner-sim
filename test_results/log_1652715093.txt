@@ -1,0 +1,2 @@
+=== RUN   TestPlotting
+    main_test.go:285: Running tdtabs_4096

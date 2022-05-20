@@ -1,0 +1,4 @@
+# github.com/whilei/go-miner-sim [github.com/whilei/go-miner-sim.test]
+./main_test.go:402:37: undefined: hashrates
+FAIL	github.com/whilei/go-miner-sim [build failed]
+FAIL

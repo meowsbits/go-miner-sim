@@ -1,0 +1,48 @@
+=== RUN   TestPlotting
+    main_test.go:285: Running tdtabs_4096
+    main_test.go:501: RESULTS tdtabs_4096
+    main_test.go:546: a=440154 c=TDTABS hr=0.33 winr=0.335 wins=494 head.i=1476 head.tabs=20456 k_mean=1.129 k_med=1.000 k_mode=[1] intervals_mean=14.617s d_mean.rel=0.971 balance=15138 objective_decs=0.800 arbs=2921 reorgs.mag_mean=1.012
+        consensus_score_high=0.80 miner_selfish=0.14 random=0.07 
+        
+    main_test.go:546: a=365d8c c=TDTABS hr=0.22 winr=0.234 wins=345 head.i=1476 head.tabs=20456 k_mean=1.129 k_med=1.000 k_mode=[1] intervals_mean=14.617s d_mean.rel=0.971 balance=12727 objective_decs=0.759 arbs=2916 reorgs.mag_mean=1.007
+        consensus_score_high=0.76 miner_selfish=0.17 random=0.07 
+        
+    main_test.go:546: a=248f8c c=TDTABS hr=0.15 winr=0.150 wins=222 head.i=1476 head.tabs=20456 k_mean=1.129 k_med=1.000 k_mode=[1] intervals_mean=14.617s d_mean.rel=0.971 balance=5044 objective_decs=0.845 arbs=2251 reorgs.mag_mean=1.010
+        consensus_score_high=0.84 miner_selfish=0.07 random=0.08 
+        
+    main_test.go:546: a=50bb6b c=TDTABS hr=0.10 winr=0.089 wins=131 head.i=1476 head.tabs=20456 k_mean=1.129 k_med=1.000 k_mode=[1] intervals_mean=14.617s d_mean.rel=0.971 balance=3093 objective_decs=0.848 arbs=2161 reorgs.mag_mean=1.004
+        consensus_score_high=0.85 miner_selfish=0.05 random=0.11 
+        
+    main_test.go:546: a=8bd447 c=TDTABS hr=0.07 winr=0.059 wins=87 head.i=1476 head.tabs=20456 k_mean=1.129 k_med=1.000 k_mode=[1] intervals_mean=14.617s d_mean.rel=0.971 balance=2204 objective_decs=0.835 arbs=2227 reorgs.mag_mean=1.009
+        consensus_score_high=0.84 miner_selfish=0.05 random=0.12 
+        
+    main_test.go:546: a=b2dc33 c=TDTABS hr=0.04 winr=0.039 wins=57 head.i=1476 head.tabs=20456 k_mean=1.129 k_med=1.000 k_mode=[1] intervals_mean=14.617s d_mean.rel=0.971 balance=1304 objective_decs=0.847 arbs=2176 reorgs.mag_mean=1.013
+        consensus_score_high=0.85 miner_selfish=0.02 random=0.13 
+        
+    main_test.go:546: a=cbe12c c=TDTABS hr=0.03 winr=0.030 wins=45 head.i=1476 head.tabs=20456 k_mean=1.129 k_med=1.000 k_mode=[1] intervals_mean=14.617s d_mean.rel=0.971 balance=1549 objective_decs=0.818 arbs=2485 reorgs.mag_mean=1.006
+        consensus_score_high=0.82 miner_selfish=0.01 random=0.17 
+        
+    main_test.go:546: a=dce329 c=TDTABS hr=0.02 winr=0.022 wins=32 head.i=1476 head.tabs=20456 k_mean=1.129 k_med=1.000 k_mode=[1] intervals_mean=14.617s d_mean.rel=0.971 balance=754 objective_decs=0.861 arbs=2055 reorgs.mag_mean=1.013
+        consensus_score_high=0.86 miner_selfish=0.02 random=0.12 
+        
+    main_test.go:546: a=e8e527 c=TDTABS hr=0.01 winr=0.016 wins=24 head.i=1476 head.tabs=20456 k_mean=1.129 k_med=1.000 k_mode=[1] intervals_mean=14.617s d_mean.rel=0.971 balance=931 objective_decs=0.827 arbs=2464 reorgs.mag_mean=1.009
+        consensus_score_high=0.83 miner_selfish=0.01 random=0.16 
+        
+    main_test.go:546: a=eae527 c=TDTABS hr=0.01 winr=0.010 wins=15 head.i=1476 head.tabs=20456 k_mean=1.129 k_med=1.000 k_mode=[1] intervals_mean=14.617s d_mean.rel=0.971 balance=714 objective_decs=0.812 arbs=2576 reorgs.mag_mean=1.008
+        consensus_score_high=0.81 miner_selfish=0.00 random=0.18 
+        
+    main_test.go:546: a=efe626 c=TDTABS hr=0.01 winr=0.007 wins=11 head.i=1476 head.tabs=20456 k_mean=1.129 k_med=1.000 k_mode=[1] intervals_mean=14.617s d_mean.rel=0.971 balance=539 objective_decs=0.837 arbs=2283 reorgs.mag_mean=1.009
+        consensus_score_high=0.84 miner_selfish=0.00 random=0.16 
+        
+    main_test.go:546: a=f4e726 c=TDTABS hr=0.01 winr=0.009 wins=13 head.i=1476 head.tabs=20456 k_mean=1.129 k_med=1.000 k_mode=[1] intervals_mean=14.617s d_mean.rel=0.971 balance=532 objective_decs=0.900 arbs=1812 reorgs.mag_mean=1.017
+        consensus_score_high=0.90 miner_selfish=0.00 random=0.10 
+        
+    main_test.go:546: a=ff0000 c=TDTABS hr=0.45 winr=1.000 wins=1013 head.i=1013 head.tabs=112602 k_mean=1.000 k_med=1.000 k_mode=[1] intervals_mean=21.278s d_mean.rel=0.756 balance=103039 objective_decs=1.000 arbs=1013 reorgs.mag_mean=NaN
+        consensus_score_high=1.00 
+        
+    main_test.go:554: Making plots...
+    main_test.go:727: Making movie...
+    main_test.go:752: Making gif...
+--- PASS: TestPlotting (73.32s)
+PASS
+ok  	github.com/whilei/go-miner-sim	73.325s

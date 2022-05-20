@@ -1,0 +1,48 @@
+=== RUN   TestPlotting
+    main_test.go:285: Running tdtabs_4096
+    main_test.go:503: RESULTS tdtabs_4096
+    main_test.go:548: a=440154 c=TDTABS hr=0.33 winr=0.343 wins=511 head.i=1491 head.tabs=18450 head.td=14596683904790 head.tdtabs=210659959442974393 k_mean=1.119 k_med=1.000 k_mode=[1] intervals_mean=14.454s d_mean.rel=0.978 balance=16773 objective_decs=0.829 arbs=3002 reorgs.mag_mean=1.008
+        consensus_score_high=0.83 miner_selfish=0.10 random=0.07 
+        
+    main_test.go:548: a=365d8c c=TDTABS hr=0.22 winr=0.223 wins=333 head.i=1492 head.tabs=18305 head.td=14606348785605 head.tdtabs=210836875086292968 k_mean=1.119 k_med=1.000 k_mode=[1] intervals_mean=14.467s d_mean.rel=0.978 balance=10006 objective_decs=0.798 arbs=2617 reorgs.mag_mean=1.005
+        consensus_score_high=0.80 miner_selfish=0.13 random=0.07 
+        
+    main_test.go:548: a=248f8c c=TDTABS hr=0.15 winr=0.158 wins=236 head.i=1491 head.tabs=18450 head.td=14596683904790 head.tdtabs=210659959442974393 k_mean=1.119 k_med=1.000 k_mode=[1] intervals_mean=14.454s d_mean.rel=0.978 balance=6382 objective_decs=0.821 arbs=2419 reorgs.mag_mean=1.012
+        consensus_score_high=0.82 miner_selfish=0.10 random=0.08 
+        
+    main_test.go:548: a=50bb6b c=TDTABS hr=0.10 winr=0.092 wins=137 head.i=1491 head.tabs=18450 head.td=14596683904790 head.tdtabs=210659959442974393 k_mean=1.119 k_med=1.000 k_mode=[1] intervals_mean=14.454s d_mean.rel=0.978 balance=3972 objective_decs=0.825 arbs=2325 reorgs.mag_mean=1.007
+        consensus_score_high=0.82 miner_selfish=0.08 random=0.10 
+        
+    main_test.go:548: a=8bd447 c=TDTABS hr=0.07 winr=0.064 wins=96 head.i=1491 head.tabs=18450 head.td=14596683904790 head.tdtabs=210659959442974393 k_mean=1.119 k_med=1.000 k_mode=[1] intervals_mean=14.454s d_mean.rel=0.978 balance=1835 objective_decs=0.869 arbs=2054 reorgs.mag_mean=1.015
+        consensus_score_high=0.87 miner_selfish=0.03 random=0.10 
+        
+    main_test.go:548: a=b2dc33 c=TDTABS hr=0.04 winr=0.041 wins=61 head.i=1491 head.tabs=18450 head.td=14596683904790 head.tdtabs=210659959442974393 k_mean=1.119 k_med=1.000 k_mode=[1] intervals_mean=14.454s d_mean.rel=0.978 balance=1532 objective_decs=0.861 arbs=2147 reorgs.mag_mean=1.007
+        consensus_score_high=0.86 miner_selfish=0.04 random=0.10 
+        
+    main_test.go:548: a=cbe12c c=TDTABS hr=0.03 winr=0.029 wins=43 head.i=1491 head.tabs=18450 head.td=14596683904790 head.tdtabs=210659959442974393 k_mean=1.119 k_med=1.000 k_mode=[1] intervals_mean=14.454s d_mean.rel=0.978 balance=913 objective_decs=0.873 arbs=2031 reorgs.mag_mean=1.010
+        consensus_score_high=0.87 miner_selfish=0.02 random=0.11 
+        
+    main_test.go:548: a=dce329 c=TDTABS hr=0.02 winr=0.019 wins=29 head.i=1491 head.tabs=18450 head.td=14596683904790 head.tdtabs=210659959442974393 k_mean=1.119 k_med=1.000 k_mode=[1] intervals_mean=14.454s d_mean.rel=0.978 balance=1114 objective_decs=0.831 arbs=2432 reorgs.mag_mean=1.009
+        consensus_score_high=0.83 miner_selfish=0.02 random=0.15 
+        
+    main_test.go:548: a=e8e527 c=TDTABS hr=0.01 winr=0.011 wins=16 head.i=1491 head.tabs=18450 head.td=14596683904790 head.tdtabs=210659959442974393 k_mean=1.119 k_med=1.000 k_mode=[1] intervals_mean=14.454s d_mean.rel=0.978 balance=562 objective_decs=0.853 arbs=2225 reorgs.mag_mean=1.008
+        consensus_score_high=0.85 miner_selfish=0.00 random=0.14 
+        
+    main_test.go:548: a=eae527 c=TDTABS hr=0.01 winr=0.008 wins=12 head.i=1491 head.tabs=18450 head.td=14596683904790 head.tdtabs=210659959442974393 k_mean=1.119 k_med=1.000 k_mode=[1] intervals_mean=14.454s d_mean.rel=0.978 balance=573 objective_decs=0.866 arbs=2116 reorgs.mag_mean=1.005
+        consensus_score_high=0.87 miner_selfish=0.02 random=0.12 
+        
+    main_test.go:548: a=efe626 c=TDTABS hr=0.01 winr=0.005 wins=8 head.i=1491 head.tabs=18450 head.td=14596683904790 head.tdtabs=210659959442974393 k_mean=1.119 k_med=1.000 k_mode=[1] intervals_mean=14.454s d_mean.rel=0.978 balance=683 objective_decs=0.829 arbs=2554 reorgs.mag_mean=1.007
+        consensus_score_high=0.83 miner_selfish=0.01 random=0.16 
+        
+    main_test.go:548: a=f4e726 c=TDTABS hr=0.01 winr=0.007 wins=10 head.i=1491 head.tabs=18450 head.td=14596683904790 head.tdtabs=210659959442974393 k_mean=1.119 k_med=1.000 k_mode=[1] intervals_mean=14.454s d_mean.rel=0.978 balance=568 objective_decs=0.872 arbs=2027 reorgs.mag_mean=1.011
+        consensus_score_high=0.87 random=0.13 
+        
+    main_test.go:548: a=ff0000 c=TDTABS hr=0.80 winr=1.000 wins=1467 head.i=1467 head.tabs=114373 head.td=13356390392547 head.tdtabs=1288179860956137965 k_mean=1.000 k_med=1.000 k_mode=[1] intervals_mean=14.710s d_mean.rel=0.910 balance=104401 objective_decs=1.000 arbs=1467 reorgs.mag_mean=NaN
+        consensus_score_high=1.00 
+        
+    main_test.go:556: Making plots...
+    main_test.go:765: Making movie...
+    main_test.go:790: Making gif...
+--- PASS: TestPlotting (72.85s)
+PASS
+ok  	github.com/whilei/go-miner-sim	72.858s

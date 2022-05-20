@@ -1,0 +1,54 @@
+=== RUN   TestBlockTree_AppendBlock
+--- PASS: TestBlockTree_AppendBlock (0.00s)
+=== RUN   TestPlotting
+    main_test.go:77: Running td
+    main_test.go:328: RESULTS td
+    main_test.go:354: a=440154 c=TD hr=0.33 winr=0.329 wins=497 head.i=1509 head.tabs=32294 k_mean=1.136 k_med=1.000 k_mode=[1] intervals_mean=14.313s d_mean.rel=0.972 balance=53653 objective_decs=0.170 reorgs.mag_mean=1.022\n
+    main_test.go:354: a=365d8c c=TD hr=0.22 winr=0.215 wins=324 head.i=1508 head.tabs=32044 k_mean=1.137 k_med=1.000 k_mode=[1] intervals_mean=14.320s d_mean.rel=0.972 balance=31955 objective_decs=0.268 reorgs.mag_mean=1.027\n
+    main_test.go:354: a=248f8c c=TD hr=0.15 winr=0.162 wins=244 head.i=1508 head.tabs=32044 k_mean=1.137 k_med=1.000 k_mode=[1] intervals_mean=14.320s d_mean.rel=0.972 balance=29246 objective_decs=0.103 reorgs.mag_mean=1.017\n
+    main_test.go:354: a=50bb6b c=TD hr=0.10 winr=0.101 wins=152 head.i=1508 head.tabs=32044 k_mean=1.137 k_med=1.000 k_mode=[1] intervals_mean=14.320s d_mean.rel=0.972 balance=17725 objective_decs=0.118 reorgs.mag_mean=1.018\n
+    main_test.go:354: a=8bd447 c=TD hr=0.07 winr=0.070 wins=106 head.i=1509 head.tabs=31793 k_mean=1.136 k_med=1.000 k_mode=[1] intervals_mean=14.313s d_mean.rel=0.972 balance=9992 objective_decs=0.232 reorgs.mag_mean=1.025\n
+    main_test.go:354: a=b2dc33 c=TD hr=0.04 winr=0.040 wins=60 head.i=1508 head.tabs=32044 k_mean=1.137 k_med=1.000 k_mode=[1] intervals_mean=14.320s d_mean.rel=0.972 balance=6944 objective_decs=0.182 reorgs.mag_mean=1.016\n
+    main_test.go:354: a=cbe12c c=TD hr=0.03 winr=0.034 wins=51 head.i=1508 head.tabs=32044 k_mean=1.137 k_med=1.000 k_mode=[1] intervals_mean=14.320s d_mean.rel=0.972 balance=4867 objective_decs=0.179 reorgs.mag_mean=1.021\n
+    main_test.go:354: a=dce329 c=TD hr=0.02 winr=0.023 wins=34 head.i=1508 head.tabs=32044 k_mean=1.137 k_med=1.000 k_mode=[1] intervals_mean=14.320s d_mean.rel=0.972 balance=3214 objective_decs=0.176 reorgs.mag_mean=1.018\n
+    main_test.go:354: a=e8e527 c=TD hr=0.01 winr=0.013 wins=20 head.i=1508 head.tabs=32044 k_mean=1.137 k_med=1.000 k_mode=[1] intervals_mean=14.320s d_mean.rel=0.972 balance=1950 objective_decs=0.285 reorgs.mag_mean=1.029\n
+    main_test.go:354: a=eae527 c=TD hr=0.01 winr=0.008 wins=12 head.i=1508 head.tabs=32044 k_mean=1.137 k_med=1.000 k_mode=[1] intervals_mean=14.320s d_mean.rel=0.972 balance=1822 objective_decs=0.155 reorgs.mag_mean=1.014\n
+    main_test.go:354: a=efe626 c=TD hr=0.01 winr=0.005 wins=8 head.i=1508 head.tabs=32044 k_mean=1.137 k_med=1.000 k_mode=[1] intervals_mean=14.320s d_mean.rel=0.972 balance=1190 objective_decs=0.226 reorgs.mag_mean=1.019\n
+    main_test.go:354: a=f4e726 c=TD hr=0.01 winr=0.003 wins=4 head.i=1508 head.tabs=32044 k_mean=1.137 k_med=1.000 k_mode=[1] intervals_mean=14.320s d_mean.rel=0.972 balance=795 objective_decs=0.176 reorgs.mag_mean=1.020\n
+    main_test.go:360: Making plots...
+    main_test.go:533: Making movie...
+    main_test.go:558: Making gif...
+    main_test.go:77: Running tdtabs
+    main_test.go:328: RESULTS tdtabs
+    main_test.go:354: a=440154 c=TDTABS hr=0.33 winr=0.373 wins=553 head.i=1481 head.tabs=35366 k_mean=1.126 k_med=1.000 k_mode=[1] intervals_mean=14.564s d_mean.rel=0.969 balance=49711 objective_decs=0.280 reorgs.mag_mean=1.006\n
+    main_test.go:354: a=365d8c c=TDTABS hr=0.22 winr=0.220 wins=326 head.i=1481 head.tabs=35366 k_mean=1.126 k_med=1.000 k_mode=[1] intervals_mean=14.564s d_mean.rel=0.969 balance=35621 objective_decs=0.204 reorgs.mag_mean=1.005\n
+    main_test.go:354: a=248f8c c=TDTABS hr=0.15 winr=0.157 wins=232 head.i=1481 head.tabs=35366 k_mean=1.126 k_med=1.000 k_mode=[1] intervals_mean=14.564s d_mean.rel=0.969 balance=23909 objective_decs=0.184 reorgs.mag_mean=1.009\n
+    main_test.go:354: a=50bb6b c=TDTABS hr=0.10 winr=0.090 wins=134 head.i=1481 head.tabs=35366 k_mean=1.126 k_med=1.000 k_mode=[1] intervals_mean=14.564s d_mean.rel=0.969 balance=15712 objective_decs=0.165 reorgs.mag_mean=1.007\n
+    main_test.go:354: a=8bd447 c=TDTABS hr=0.07 winr=0.058 wins=86 head.i=1481 head.tabs=35366 k_mean=1.126 k_med=1.000 k_mode=[1] intervals_mean=14.564s d_mean.rel=0.969 balance=10271 objective_decs=0.159 reorgs.mag_mean=1.005\n
+    main_test.go:354: a=b2dc33 c=TDTABS hr=0.04 winr=0.037 wins=55 head.i=1481 head.tabs=35366 k_mean=1.126 k_med=1.000 k_mode=[1] intervals_mean=14.564s d_mean.rel=0.969 balance=7151 objective_decs=0.148 reorgs.mag_mean=1.006\n
+    main_test.go:354: a=cbe12c c=TDTABS hr=0.03 winr=0.016 wins=23 head.i=1481 head.tabs=35366 k_mean=1.126 k_med=1.000 k_mode=[1] intervals_mean=14.564s d_mean.rel=0.969 balance=4225 objective_decs=0.211 reorgs.mag_mean=1.005\n
+    main_test.go:354: a=dce329 c=TDTABS hr=0.02 winr=0.018 wins=27 head.i=1481 head.tabs=35366 k_mean=1.126 k_med=1.000 k_mode=[1] intervals_mean=14.564s d_mean.rel=0.969 balance=3154 objective_decs=0.161 reorgs.mag_mean=1.007\n
+    main_test.go:354: a=e8e527 c=TDTABS hr=0.01 winr=0.011 wins=16 head.i=1481 head.tabs=35366 k_mean=1.126 k_med=1.000 k_mode=[1] intervals_mean=14.564s d_mean.rel=0.969 balance=1998 objective_decs=0.176 reorgs.mag_mean=1.006\n
+    main_test.go:354: a=eae527 c=TDTABS hr=0.01 winr=0.009 wins=13 head.i=1481 head.tabs=35366 k_mean=1.126 k_med=1.000 k_mode=[1] intervals_mean=14.564s d_mean.rel=0.969 balance=1678 objective_decs=0.245 reorgs.mag_mean=1.005\n
+    main_test.go:354: a=efe626 c=TDTABS hr=0.01 winr=0.007 wins=11 head.i=1481 head.tabs=35366 k_mean=1.126 k_med=1.000 k_mode=[1] intervals_mean=14.564s d_mean.rel=0.969 balance=1415 objective_decs=0.147 reorgs.mag_mean=1.009\n
+    main_test.go:354: a=f4e726 c=TDTABS hr=0.01 winr=0.003 wins=5 head.i=1481 head.tabs=35366 k_mean=1.126 k_med=1.000 k_mode=[1] intervals_mean=14.564s d_mean.rel=0.969 balance=876 objective_decs=0.251 reorgs.mag_mean=1.008\n
+    main_test.go:360: Making plots...
+    main_test.go:533: Making movie...
+    main_test.go:558: Making gif...
+--- PASS: TestPlotting (144.63s)
+=== RUN   TestProcessBlock
+    main_test.go:642: n=0 [h=4d65 ph=0000 c=true]
+        n=1 [h=de49 ph=4d65 c=true]
+        n=2 [h=7934 ph=de49 c=true]
+        n=3 [h=2b6a ph=7934 c=true]
+        n=4 [h=392b ph=2b6a c=true]
+        n=5 [h=72e9 ph=392b c=true]
+        n=6 [h=2945 ph=72e9 c=true]
+        n=7 [h=3f30 ph=2945 c=true]
+        n=8 [h=1c75 ph=3f30 c=false][h=662a ph=3f30 c=true]
+        n=9 [h=7bbc ph=1c75 c=false][h=e0fb ph=662a c=true]
+        n=10 [h=3f6b ph=e0fb c=true]
+        
+--- PASS: TestProcessBlock (0.00s)
+PASS
+ok  	github.com/whilei/go-miner-sim	144.630s

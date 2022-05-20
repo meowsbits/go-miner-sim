@@ -1,0 +1,12 @@
+=== RUN   TestPlotting
+    main_test.go:130: Running tdtabs_4096_tabsStep
+    main_test.go:298: bad color invalid length, must be 7 or 4 X
+panic: test
+
+goroutine 39 [running]:
+github.com/whilei/go-miner-sim.runTestPlotting.func5()
+	/home/ia/dev/whilei/tabs-paper/go-miner-sim/main_test.go:299 +0xfc5
+created by github.com/whilei/go-miner-sim.runTestPlotting
+	/home/ia/dev/whilei/tabs-paper/go-miner-sim/main_test.go:227 +0xde6
+FAIL	github.com/whilei/go-miner-sim	0.028s
+FAIL

@@ -1,0 +1,45 @@
+=== RUN   TestPlotting
+    main_test.go:130: Running tdtabs_4096_tabsStep
+    main_test.go:376: RESULTS tdtabs_4096_tabsStep
+    main_test.go:421: a=440154 c=TDTABS_step hr=0.33 winr=NaN wins=0 head.i=0 head.tabs=10000 k_mean=815.500 k_med=815.500 k_mode=[] intervals_mean=0.000s d_mean.rel=1.000 balance=6 objective_decs=1.000 arbs=11091 reorgs.mag_mean=1.000
+        height_low=1.00 
+        
+    main_test.go:421: a=365d8c c=TDTABS_step hr=0.22 winr=NaN wins=0 head.i=0 head.tabs=10000 k_mean=815.500 k_med=815.500 k_mode=[] intervals_mean=0.000s d_mean.rel=1.000 balance=10 objective_decs=1.000 arbs=10399 reorgs.mag_mean=1.000
+        height_low=1.00 
+        
+    main_test.go:421: a=248f8c c=TDTABS_step hr=0.15 winr=NaN wins=0 head.i=0 head.tabs=10000 k_mean=815.500 k_med=815.500 k_mode=[] intervals_mean=0.000s d_mean.rel=1.000 balance=13 objective_decs=1.000 arbs=16111 reorgs.mag_mean=1.000
+        height_low=1.00 
+        
+    main_test.go:421: a=50bb6b c=TDTABS_step hr=0.10 winr=NaN wins=0 head.i=0 head.tabs=10000 k_mean=815.500 k_med=815.500 k_mode=[] intervals_mean=0.000s d_mean.rel=1.000 balance=15 objective_decs=1.000 arbs=8764 reorgs.mag_mean=1.000
+        height_low=1.00 
+        
+    main_test.go:421: a=8bd447 c=TDTABS_step hr=0.07 winr=NaN wins=0 head.i=0 head.tabs=10000 k_mean=815.500 k_med=815.500 k_mode=[] intervals_mean=0.000s d_mean.rel=1.000 balance=23 objective_decs=1.000 arbs=5222 reorgs.mag_mean=1.000
+        height_low=1.00 
+        
+    main_test.go:421: a=b2dc33 c=TDTABS_step hr=0.04 winr=NaN wins=0 head.i=0 head.tabs=10000 k_mean=815.500 k_med=815.500 k_mode=[] intervals_mean=0.000s d_mean.rel=1.000 balance=35 objective_decs=1.000 arbs=12251 reorgs.mag_mean=1.000
+        height_low=1.00 
+        
+    main_test.go:421: a=cbe12c c=TDTABS_step hr=0.03 winr=NaN wins=0 head.i=0 head.tabs=10000 k_mean=815.500 k_med=815.500 k_mode=[] intervals_mean=0.000s d_mean.rel=1.000 balance=52 objective_decs=1.000 arbs=10986 reorgs.mag_mean=1.000
+        height_low=1.00 
+        
+    main_test.go:421: a=dce329 c=TDTABS_step hr=0.02 winr=NaN wins=0 head.i=0 head.tabs=10000 k_mean=815.500 k_med=815.500 k_mode=[] intervals_mean=0.000s d_mean.rel=1.000 balance=79 objective_decs=1.000 arbs=7382 reorgs.mag_mean=1.000
+        height_low=1.00 
+        
+    main_test.go:421: a=e8e527 c=TDTABS_step hr=0.01 winr=NaN wins=0 head.i=0 head.tabs=10000 k_mean=815.500 k_med=815.500 k_mode=[] intervals_mean=0.000s d_mean.rel=1.000 balance=118 objective_decs=1.000 arbs=12383 reorgs.mag_mean=1.000
+        height_low=1.00 
+        
+    main_test.go:421: a=eae527 c=TDTABS_step hr=0.01 winr=NaN wins=0 head.i=0 head.tabs=10000 k_mean=815.500 k_med=815.500 k_mode=[] intervals_mean=0.000s d_mean.rel=1.000 balance=177 objective_decs=1.000 arbs=10863 reorgs.mag_mean=1.000
+        height_low=1.00 
+        
+    main_test.go:421: a=efe626 c=TDTABS_step hr=0.01 winr=NaN wins=0 head.i=0 head.tabs=10000 k_mean=815.500 k_med=815.500 k_mode=[] intervals_mean=0.000s d_mean.rel=1.000 balance=266 objective_decs=1.000 arbs=10583 reorgs.mag_mean=1.000
+        height_low=1.00 
+        
+    main_test.go:421: a=f4e726 c=TDTABS_step hr=0.01 winr=NaN wins=0 head.i=0 head.tabs=10000 k_mean=815.500 k_med=815.500 k_mode=[] intervals_mean=0.000s d_mean.rel=1.000 balance=400 objective_decs=1.000 arbs=10626 reorgs.mag_mean=1.000
+        height_low=1.00 
+        
+    main_test.go:429: Making plots...
+    main_test.go:602: Making movie...
+    main_test.go:627: Making gif...
+--- PASS: TestPlotting (20.25s)
+PASS
+ok  	github.com/whilei/go-miner-sim	20.253s
